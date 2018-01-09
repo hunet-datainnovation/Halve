@@ -1,7 +1,7 @@
 # Site
 title: Hunet-DataInnovation
-description: Hunet DataInnovationTeam Github blog
-url: https://hunet-datainnovation.github.io/
+description: Stylish, Two-Column Jekyll Theme
+url: https://Hunet-DataInnovation.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -30,29 +30,29 @@ sass:
 
 # Social Links
 #email:             email
-#google.plus:        username
-twitter:            username
-#facebook:           username
-github:             Hunet-DataInnovation
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-behance:           username
+#google.plus:        hunet-datainnovation
+twitter:            hunet-datainnovation
+#facebook:           hunet-datainnovation
+github:             hunet-datainnovation
+#stackoverflow:     123456/hunet-datainnovation   from a "http://stackoverflow.com/users/123456/hunet-datainnovation" link
+#linkedin:          hunet-datainnovation
+#xing:              hunet-datainnovation
+#instagram:          hunet-datainnovation
+#lastfm:            hunet-datainnovation
+#tumblr:            hunet-datainnovation
+#pinterest:         hunet-datainnovation
+#foursquare:        hunet-datainnovation
+#steam:              hunet-datainnovation
+#dribbble:          hunet-datainnovation
+#youtube:           hunet-datainnovation
+#soundcloud:        hunet-datainnovation
+#weibo:             hunet-datainnovation
+#flickr:            hunet-datainnovation
+#codepen:           hunet-datainnovation
+#keybase:           hunet-datainnovation
+#xmpp:              hunet-datainnovation@server.com
+#hackernews:        hunet-datainnovation
+behance:           hunet-datainnovation
 
 # Gems
 gems:
