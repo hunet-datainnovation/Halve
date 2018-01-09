@@ -1,7 +1,7 @@
 # Site
 title: Hunet-DataInnovation
 description: Hunet DataInnovationTeam Github blog
-url: https://hunet-datainnovation.github.io//Halve
+url: https://hunet-datainnovation.github.io/halve
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -33,7 +33,7 @@ sass:
 #google.plus:        username
 twitter:            username
 #facebook:           username
-github:             username
+github:             Hunet-DataInnovation
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
