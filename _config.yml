@@ -1,6 +1,6 @@
 # Site
 title: Hunet-DataInnovation
-description: Stylish, Two-Column Jekyll Theme
+description: Hunet DataInnovation Team Technology Blog
 url: https://Hunet-DataInnovation.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -52,7 +52,7 @@ github:             hunet-datainnovation
 #keybase:           hunet-datainnovation
 #xmpp:              hunet-datainnovation@server.com
 #hackernews:        hunet-datainnovation
-behance:           hunet-datainnovation
+#behance:           hunet-datainnovation
 
 # Gems
 gems:
